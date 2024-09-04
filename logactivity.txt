@@ -1,0 +1,11 @@
+การ Explore และ Visualize data https://colab.research.google.com/drive/1M1KHfy2GtC5YuOXykjabZMbsQC4A6AS6?usp=sharing
+การทำความเข้าใจ Data ที่ได้รับรวมถึงการนำ Data ทั้ง 4 แบบจากที่โจทย์ให้มา plot เพื่อให้คนอื่นๆเข้าใจได้ง่ายๆ
+
+การเตรียมข้อมูลสำหรับการวิเคราะห์และการการใช้ Filter แบบต่างๆ lowpass, hightpass, bandpass, notchpass Filter https://colab.research.google.com/drive/16Mv2dQTXzi8ng46g8Ozecsjt_rOHbyeH?usp=sharing
+การกำจัดสัญญานที่ไม่พึ่งประสงค์ เช่น ต้องการแค่ความถี่ 1-30 Hz หรือ ไม่ต้องการความถี่บางช่วงเช่น 50 Hz ก็สามารถกำจัดได้โดยการแปลง Time domain ให้กลายเป็น Frequency Domain
+การทำงานร่วมกับไฟล์ประภท .npy
+เทคนิค ICA
+Up/Down Sampling สัญญาน
+Forier transfrom, Wavelet transform
+การใช้ Braindecode library รวมถึงการใช้งาน Model แบบต่างๆ 
+https://colab.research.google.com/drive/1m8PPpCfJXwf56P3krabPXeCzDBDCH1Pb?usp=sharing
